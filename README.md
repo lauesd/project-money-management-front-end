@@ -7,7 +7,7 @@ This is the front-end of this project.
 
 **Acceptance Criteria**:
 - The personal budget  must have the following attributes:
-  - **Amount**: The monetary value or expected amount for the budget (e.g., "$3,000").
+  - **Amount**: The monetary value amount for the budget (e.g., "$3,000").
 
 **Security**:
 - The software must use strong encryption (e.g., AES-256) to protect all financial data, including income records.
