@@ -76,7 +76,7 @@ This is the front-end of this project.
 
 ---
 
-## 4. As a user, I want to register and log in to the software, and I want all my data to be deleted after 2 hours of registration.
+## 5. As a user, I want to register and log in to the software, and I want all my data to be deleted after 2 hours of registration.
 
 **Acceptance Criteria**:
 - I can register for an account by providing my personal details (e.g., email, password).
