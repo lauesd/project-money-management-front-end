@@ -147,6 +147,7 @@ This is the front-end of this project.
 **Acceptance Criteria**:
 - I can register for an account by providing my personal details (e.g., email, password).
 - I can log in using my registered credentials (e.g., email and password).
+- A budget is automatically created when the user account is registered.
 - All user data, including personal and financial information, is automatically deleted 2 hours after registration.
 - The software ensures that after the 2-hour window, all data associated with the account is fully deleted and cannot be recovered.
 
