@@ -130,7 +130,6 @@ This is the front-end of this project.
 **Acceptance Criteria**:
 - The software must display the total income and total spending.
 - The software must show a comparison between total income and total spending (e.g., a bar chart or percentage comparison).
-- The comparison should indicate whether spending is within the budget, over budget, or under budget.
 
 **Security**:
 - The software must use strong encryption (e.g., AES-256) to protect all financial data, including income and spending records.
